@@ -8,7 +8,7 @@ We will use Postgre SQL database, Dart & Flatter. This project will have front-e
 
 # Purpose
 
-This app is designed for startups who have little money to start a business. We will start with basig features for planing a project and working with a team. This app will grow to resolve enterprise activity from planning to production, delivery and support.
+This app is designed for startups who have little money to start a business. We will implement the basig features required for planing a project and working with a team. This app will grow to resolve enterprise activity from planning to production, delivery and support.
 
 # Developers
 
