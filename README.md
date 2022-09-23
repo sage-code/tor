@@ -4,7 +4,7 @@ Enterprise Resource & Planning. An open source project designed from scratch to 
 
 ## Technology
 
-We will use Postgre SQL database, Dart & Flatter. This project will have front-end and back-end. We will use JSON Api for communication. The application primary target is the desktop. Mobile tablet app will be considered to enable a dash-board for VIP to connect to same database and check Enterprise status.
+We will use Postgre SQL database. This project will have front-end and back-end. We will use JSON Api for communication. The application primary target is the desktop. Mobile tablet app will be considered to enable a dash-board for VIP to connect to same database and check Enterprise status.
 
 ## Purpose
 
